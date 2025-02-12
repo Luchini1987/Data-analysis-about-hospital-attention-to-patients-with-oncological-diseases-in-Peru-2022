@@ -1,5 +1,5 @@
 # Project # 1
-# Data-analysis-about-hospital-attention-to-patients-with-oncological-diseases-in-Peru-2022
+# Data analysis about hospital attention to patients with oncological diseases in Perú 2022
 Type of analysis : Descriptive analysis     
 Source of data :  
 https://www.datosabiertos.gob.pe/dataset/atenciones-de-cobertura-oncol%C3%B3gica-periodos-2022-2023-fondo-intangible-solidario-de-salud  
